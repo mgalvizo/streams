@@ -1,9 +1,3 @@
-# streams
-
-Complete project on how to stream video with OBS Studio.
-
-This is an example of a twitch like app.
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
